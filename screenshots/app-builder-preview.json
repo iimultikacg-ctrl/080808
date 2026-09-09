@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Своя сторона силы",
+      "hasCanvas": false,
+      "bodyTextLen": 256,
+      "bodyTextHash": "b9df021c36c5b839c7890474ea46b5b4bba4f03ff9222973f45d02fba151f083",
+      "bodyTextPrefix": "К слайду СБЕР · КОРПОРАТИВНЫЙ СПОРТ Своя сторона силы 01 / 15 КО",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Своя сторона силы",
+      "hasCanvas": false,
+      "bodyTextLen": 109,
+      "bodyTextHash": "c3369af535eef6fdd513b67883a58c4f5403865dc4cd919dc794e5717e085c77",
+      "bodyTextPrefix": "К слайду КОММУНИКАЦИОННАЯ КОНЦЕПЦИЯ · 2026 Своя сторона силы От ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
